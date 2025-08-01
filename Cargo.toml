@@ -1,5 +1,5 @@
 [package]
-name = "Shortest-Path-Algorithm-in-Rust"
+name = "shortest_path_algorithm_in_rust"
 version = "0.1.0"
 edition = "2024"
 

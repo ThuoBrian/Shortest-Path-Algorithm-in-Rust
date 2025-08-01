@@ -3,13 +3,6 @@
 version = 4
 
 [[package]]
-name = "Shortest-Path-Algorithm-in-Rust"
-version = "0.1.0"
-dependencies = [
- "petgraph",
-]
-
-[[package]]
 name = "allocator-api2"
 version = "0.2.21"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -102,6 +95,13 @@ dependencies = [
  "proc-macro2",
  "quote",
  "syn",
+]
+
+[[package]]
+name = "shortest_path_algorithm_in_rust"
+version = "0.1.0"
+dependencies = [
+ "petgraph",
 ]
 
 [[package]]
