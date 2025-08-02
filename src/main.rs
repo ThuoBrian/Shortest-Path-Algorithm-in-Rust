@@ -15,7 +15,7 @@ fn main() {
     let busia = graph.add_node("Busia");
     let kericho = graph.add_node("Kericho");
 
-    // Add edges (distances)
+    // Add-(distances)
     graph.extend_with_edges([
         (nairobi, kisumu, 100),
         (nairobi, kisii, 150),
