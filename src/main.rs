@@ -1,6 +1,6 @@
-use shortest_path_algorithm_in_rust::takes_user_input;
 use petgraph::algo::dijkstra;
 use petgraph::prelude::*;
+use shortest_path_algorithm_in_rust::takes_user_input;
 
 fn main() {
     println!("Welcome to the Shortest Path Algorithm in Rust in Kenya!");
